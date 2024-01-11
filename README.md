@@ -1,9 +1,7 @@
 Hello 
 My name is Kathryn but preferably go by Kat. 
-I am an aspiring Instructional Designer currently working as a special education teacher in the elementary school setting. 
-With the transition that took place to accommodate the pandemic, students were faced with tasks online that are not as easy
-to navigate as they get younger. With that, those with special needs have an even harder time when accommodations they are given 
-in the classroom have not transitioned as well to the online world. I want to assist in making their educational journey
-as beneficial online as it can be in person. Several teachers and parents reported that there were students who benefited
-from the online instruction. I want to make it so that online can remain a beneficial option for all students, including those who
-may need assistance but have yet to be identified. 
+I am  Software Engineer with a special interest in front end development. 
+My background has been centered on working directly with people to provide support
+and assist with creating a more inclusive space. As technology as grown, the accessibility
+aspect has not kept up at the same pace. I want to assist in creating an inclusive technological
+space for both personal and professional use by all individuals. 
